@@ -51,14 +51,6 @@ A Bootstrap styled, Markdown powered, Server-side language agnostic, database-le
 
 -------------
 
-Get the latest of football from 
-
-* Football Categories
-
-  * [Premiership] (https://www.skysports.com/football) 
-  * [UEFA Champions League] (http://www.bbc.com/sport/football)- 
-  * [Europa League](http://www.talksport.com/football) 
-=======
 Colors are properties been reflected as rays of light throws on them
 
 * Color Categories
