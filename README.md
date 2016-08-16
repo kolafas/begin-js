@@ -8,3 +8,17 @@
   1.[Art Music]
   2.Popular Music
   3.Traditional music
+
+## Colors
+
+-------------
+
+
+Colors are properties been reflected as rays of light throws on them
+
+* Color Categories
+
+  * [colorspectrum] - Fast and easy to learn. <http://www.w3schools.com/colors/colors_names.asp>
+  * [primarycolors] - Fast and easy to learn. <https://en.wikipedia.org/wiki/Lists_of_colors>
+  * [mysecondarycolors] - Fast and easy to learn. <https://en.wikipedia.org/wiki/Color_term>
+  
