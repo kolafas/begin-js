@@ -86,8 +86,6 @@ class oop_deviation:
 ~~~~
 
 See [link](http://www.python-course.eu/python3_properties.php).
->>>>>>> 5da3110da9820b3460c91b5428817203bc99b8a2
-
 
 
 ## Football
