@@ -1,4 +1,3 @@
-
 # Team Flash's Markdown task
 
 ## Music Genres
@@ -19,7 +18,6 @@ business, which typically begins as a small business, such as a startup company,
 2. [Ycombinator](http://ycombinator.com)
 3. [500 Startups](http://500.co)
 
-=======
 # Resources
 
 > This folder Holds a list of Awesome projects
