@@ -19,4 +19,3 @@ business, which typically begins as a small business, such as a startup company,
 1. [Techstars](http://techstars.com)
 2. [Ycombinator](http://ycombinator.com)
 3. 500 Startups
-4. etc
