@@ -47,12 +47,10 @@ A Bootstrap styled, Markdown powered, Server-side language agnostic, database-le
 
 
 ## Colors
->>>>>>> 5da3110da9820b3460c91b5428817203bc99b8a2
+
 
 -------------
 
-
-<<<<<<< HEAD
 Get the latest of football from 
 
 * Football Categories
@@ -73,8 +71,8 @@ Colors are properties been reflected as rays of light throws on them
 
 # OOP IN PYTHON
 
-Unlike other most OOP languages, the pythonic way of implementing OOP principles is much more liberal and ‘wrongly so’ (according to many programmers with background in Java).
-One of the popular deviations; the pythonic way to declare an attribute is to make it public unlike the general OOP principle of making attributes private and then creating setters and getters. In Python, the way is to make the attribute public and then using properties’ decorators, setting and getting the attributes are implemented.
+Unlike other most OOP languages, the pythonic way of implementing OOP principles is much more liberal and â€˜wrongly soâ€™ (according to many programmers with background in Java).
+One of the popular deviations; the pythonic way to declare an attribute is to make it public unlike the general OOP principle of making attributes private and then creating setters and getters. In Python, the way is to make the attribute public and then using propertiesâ€™ decorators, setting and getting the attributes are implemented.
 Generally, python really does not have a private attribute; the implementation closer to it is the `self.__attribute` format which uses the [name mangling](https://en.wikipedia.org/wiki/Name_mangling) 'trick'.
 ~~~~
 class oop_deviation:
