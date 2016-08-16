@@ -18,7 +18,6 @@ Colors are properties been reflected as rays of light throws on them
 
 * Color Categories
 
-  * [colorspectrum] - Fast and easy to learn. <http://www.w3schools.com/colors/colors_names.asp>
-  * [primarycolors] - Fast and easy to learn. <https://en.wikipedia.org/wiki/Lists_of_colors>
-  * [mysecondarycolors] - Fast and easy to learn. <https://en.wikipedia.org/wiki/Color_term>
-  
+  * [colorspectrum] (https://en.wikipedia.org/wiki/Help:Link_color)- Fast and easy to learn. 
+  * [primarycolors] (http://www.w3schools.com/colors/colors_names.asp)- Fast and easy to learn. 
+  * [mysecondarycolors](http://stackoverflow.com/questions/4774022/whats-default-html-css-link-color) - Learn more about the secondary colors. 
