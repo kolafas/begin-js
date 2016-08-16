@@ -1,4 +1,4 @@
-# Teaam Flash's Markdown task
+# Team Flash's Markdown task
 
 ## Music Genres
 ---------------
