@@ -43,6 +43,21 @@ A Bootstrap styled, Markdown powered, Server-side language agnostic, database-le
 [anbangx/database]: <https://github.com/anbangx/database>
 [camouflage/Database]: <https://github.com/camouflage/Database>
 [mangosArchives/databaseZero_Rel19]: <https://github.com/mangosArchives/databaseZero_Rel19>
+
+
+## Colors
+
+-------------
+
+
+Colors are properties been reflected as rays of light throws on them
+
+* Color Categories
+
+  * [colorspectrum] (https://en.wikipedia.org/wiki/Help:Link_color)- Fast and easy to learn. 
+  * [primarycolors] (http://www.w3schools.com/colors/colors_names.asp)- Fast and easy to learn. 
+  * [mysecondarycolors](http://stackoverflow.com/questions/4774022/whats-default-html-css-link-color) - Learn more about the secondary colors. 
+
 [bartsitek/Projector]: <https://github.com/bartsitek/Projector>
 
 
